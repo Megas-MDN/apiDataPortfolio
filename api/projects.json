@@ -65,6 +65,14 @@
   "text": "In this project I built a netflix clone using the tmdb api to make the data requests, I also used custom hooks to avoid repeating the same codes and finally the deploy was performed on the firebase hosting. The project allows the user to watch the trailers of each movie by clicking on the cards.",
   "view": "https://megaflix-4c4e7.web.app/",
   "source": "https://github.com/Megas-MDN/Netflix-Clone"
-  }
+  },
+  {
+    "id": 8,
+    "imgsrc": "https://i.imgur.com/5lOKxdw.png",
+    "title": "API to portifolio",
+    "text": "Using node js rules along with express, I made a simple API to upload my projects, without the need to deploy all the time. The search is automatic directly from the endpoint.",
+    "view": "https://api-data-portfolio.onrender.com/projects",
+    "source": "https://github.com/Megas-MDN/apiDataPortfolio"
+    }
   ]
   }
